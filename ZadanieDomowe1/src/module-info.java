@@ -1,0 +1,2 @@
+module ZadanieDomowe1 {
+}
